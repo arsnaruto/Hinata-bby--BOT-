@@ -1,5 +1,5 @@
 {
-   "author": ["Hîňata baby 👀🤘🏻"],
+   "author": ["SS-SALAM-07 👀🤘🏻"],
     "facebookAccount": {
     "email": "mahmudx077@gmail.com",
     "password": "",
@@ -26,7 +26,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "💝Hîňata baby👀🤘🏻",
-  "prefix": ",",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
